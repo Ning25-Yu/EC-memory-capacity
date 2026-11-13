@@ -1,0 +1,9 @@
+panel,layout_assumption,JT_score,permutations,extreme,p_one_sided,assumption,Holm_adjusted_p_4_endpoints
+1G,independent_groups,27.0,1680,1,0.0005952380952380953,Independent groups and exchangeable condition labels under the null,0.0017857142857142859
+1G,matched_rows_if_valid,27.0,216,1,0.004629629629629629,Source Rep rows identify matched experiments and condition labels are exchangeable within rows,0.013888888888888888
+1H,independent_groups,48.0,34650,1,2.886002886002886e-05,Independent groups and exchangeable condition labels under the null,0.00011544011544011544
+1H,matched_rows_if_valid,48.0,1296,1,0.0007716049382716049,Source Rep rows identify matched experiments and condition labels are exchangeable within rows,0.0030864197530864196
+1I,independent_groups,27.0,1680,1,0.0005952380952380953,Independent groups and exchangeable condition labels under the null,0.0017857142857142859
+1I,matched_rows_if_valid,27.0,216,1,0.004629629629629629,Source Rep rows identify matched experiments and condition labels are exchangeable within rows,0.013888888888888888
+1J,independent_groups,27.0,1680,1,0.0005952380952380953,Independent groups and exchangeable condition labels under the null,0.0017857142857142859
+1J,matched_rows_if_valid,27.0,216,1,0.004629629629629629,Source Rep rows identify matched experiments and condition labels are exchangeable within rows,0.013888888888888888

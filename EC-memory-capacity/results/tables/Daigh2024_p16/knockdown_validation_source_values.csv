@@ -1,0 +1,13 @@
+condition,source_row,relative_target_protein,source_csv_column
+Nts,4,1.0,2
+si-p21,4,0.250087,3
+si-p27,4,0.544542,4
+si-p53,4,0.269087,5
+Nts,5,1.0,2
+si-p21,5,0.228363,3
+si-p27,5,0.759305,4
+si-p53,5,0.366942,5
+Nts,6,1.0,2
+si-p21,6,0.309547,3
+si-p27,6,0.665939,4
+si-p53,6,0.332812,5

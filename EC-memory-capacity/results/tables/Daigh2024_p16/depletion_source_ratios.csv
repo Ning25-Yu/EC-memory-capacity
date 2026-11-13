@@ -1,0 +1,17 @@
+condition,source_replicate,reentry_ratio_to_Nts,source_csv_row,source_csv_column,Nts_is_normalization_reference
+Nts,Rep1,1.0,4,2,True
+si-p21,Rep1,1.203555,4,3,False
+si-p27,Rep1,0.991959,4,4,False
+si-p53,Rep1,1.150656,4,5,False
+Nts,Rep2,1.0,5,2,True
+si-p21,Rep2,1.246629,5,3,False
+si-p27,Rep2,1.047412,5,4,False
+si-p53,Rep2,1.210091,5,5,False
+Nts,Rep3,1.0,6,2,True
+si-p21,Rep3,1.222128,6,3,False
+si-p27,Rep3,0.997021,6,4,False
+si-p53,Rep3,1.165106,6,5,False
+Nts,Rep4,1.0,7,2,True
+si-p21,Rep4,1.18777,7,3,False
+si-p27,Rep4,1.006468,7,4,False
+si-p53,Rep4,1.147268,7,5,False

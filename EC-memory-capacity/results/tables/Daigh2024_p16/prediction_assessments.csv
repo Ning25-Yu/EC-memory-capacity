@@ -1,0 +1,6 @@
+id,prediction,assessment,scope
+H1,Longer p16 pulses give lower post-release cycling readouts,"consistent (directional, across systems)",No time calibration or model fitting
+H2,Suppression persists to the later observation window,consistent (relative suppression still present at 72 h),"Finite-window population readouts, not irreversible single-cell absorption"
+H3,p27 depletion increases re-entry during release,undetermined; no clear support for increased re-entry,"Partial whole-protein depletion in a different cellular context, not a selective edge deletion"
+H4,Specific p27 outputs to MYC and CCND2 are necessary for memory,undetermined,Neither output was selectively perturbed
+H5,Exact arrest probability in C0101 after L = 8,undetermined,Marker-positive percentages and experimental days are not model state probabilities or model time

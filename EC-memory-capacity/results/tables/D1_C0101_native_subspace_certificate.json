@@ -1,0 +1,34 @@
+{
+ "context": "C0101",
+ "n_constants_including_inputs": 30,
+ "free_variables": [
+  "AKT2",
+  "CCND2",
+  "CCND3",
+  "CDKN1B",
+  "IRF1",
+  "MYC",
+  "Proliferation"
+ ],
+ "n_states": 128,
+ "fixed_points": [
+  {
+   "AKT2": 0,
+   "CCND2": 0,
+   "CCND3": 0,
+   "CDKN1B": 1,
+   "IRF1": 1,
+   "MYC": 0,
+   "Proliferation": 0
+  },
+  {
+   "AKT2": 1,
+   "CCND2": 1,
+   "CCND3": 1,
+   "CDKN1B": 0,
+   "IRF1": 0,
+   "MYC": 1,
+   "Proliferation": 1
+  }
+ ]
+}

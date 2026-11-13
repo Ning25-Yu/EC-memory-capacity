@@ -1,0 +1,7 @@
+readout,pulse_duration_days,mean_24h,mean_72h,difference_72h_minus_24h_pp,interpretation
+phospho_Rb,1,57.333333333333336,69.07777777777778,11.744444444444447,"Descriptive comparison of separate panels, not a single-cell recovery rate"
+phospho_Rb,3,33.333333333333336,39.42222222222222,6.0888888888888815,"Descriptive comparison of separate panels, not a single-cell recovery rate"
+phospho_Rb,5,9.333333333333334,22.03055555555555,12.697222222222218,"Descriptive comparison of separate panels, not a single-cell recovery rate"
+EdU,1,12.4775,18.506666666666664,6.029166666666665,"Descriptive comparison of separate panels, not a single-cell recovery rate"
+EdU,3,5.6675,10.82111111111111,5.153611111111109,"Descriptive comparison of separate panels, not a single-cell recovery rate"
+EdU,5,1.8900000000000001,4.326111111111111,2.4361111111111104,"Descriptive comparison of separate panels, not a single-cell recovery rate"

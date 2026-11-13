@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or the interaction evidence table, please cite the article and this repository."
+title: "EC-memory-capacity: network, interaction evidence, code and result tables for "Memory Capacity of Transient Interventions in a Boolean Regulatory Network of Endometrial Cancer""
+type: software
+version: "1.0.0"
+date-released: "2026-11-12"
+license: MIT
+authors:
+  - family-names: Liu
+    given-names: Xiaowei
+    affiliation: "The First School of Clinical Medicine, Lanzhou University, Lanzhou, China"
+  - family-names: Yu
+    given-names: Ning
+    affiliation: "College of Medicine and Biological Engineering, Northeastern University, Shenyang, China"
+  - family-names: He
+    given-names: Xin
+    affiliation: "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China"
+  - family-names: Yang
+    given-names: Kehu
+    affiliation: "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China"
+  - family-names: Yang
+    given-names: Yongxiu
+    affiliation: "The First School of Clinical Medicine, Lanzhou University, Lanzhou, China"
+keywords:
+  - Boolean network
+  - continuous-time Markov chain
+  - committor
+  - channel capacity
+  - cellular memory
+  - endometrial cancer
+repository-code: "https://github.com/USERNAME/EC-memory-capacity"

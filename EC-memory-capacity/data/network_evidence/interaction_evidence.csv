@@ -1,0 +1,171 @@
+regulator,target,sign,reference_id,study,interaction_as_reported,experimental_system,doi,pmid
+CCL2,AKT2,activation,R003,Zhang 2009,CCL2 -> AKT2,THP-1 human monocytes; mouse peritoneal macrophages,10.1002/eji.200838809,19197940
+CCL5,AKT2,activation,R004,Mlera 2016,CCL5 -> AKT2,HEK293T human embryonic kidney cells,10.1128/mBio.00314-16,27222466
+IGF1,AKT2,activation,R002,Santos Fortes Dos Reis 2025,IGF-1 -> AKT2,Ishikawa human endometrial cancer cells,10.1007/s12013-025-01840-0,40690138
+IL6,AKT2,activation,R005,Dumas 2013,IL6 -> AKT2,CD40-activated human macrophages; human endometrial cancer cells,10.1007/s00262-012-1333-2,22903346
+MYC,AKT2,activation,R001,Saglam 2020,MYC -> AKT2,Endometrial serous carcinoma cells from primary tumor specimens,10.1371/journal.pone.0238477,32877461
+AKT2,Apoptosis,inhibition,R007,Girouard 2013,AKT2 -| apoptosis,KLE/HEC-1A endometrial cancer cells,10.1016/j.ygyno.2012.11.016,23174537
+CDKN1A,Apoptosis,activation,R006,Zheng 2025,CDKN1A -> apoptosis,Human endometrial cancer cells,10.1038/s41419-025-08287-4,41353219
+IFNG,CCL2,activation,R011,Hamonic 2020,IFNG -> CCL2,Porcine uterine epithelial cells,10.3389/fimmu.2020.01015,32536924
+IL6,CCL2,activation,R012,Fahey 2005,IL6 -> CCL2,"Primary human fallopian-tube, endometrial, and endocervical epithelial cells",10.1093/humrep/deh806,15734755
+IRF5,CCL2,activation,R008,Edsfeldt 2022,IRF5 -> CCL2,Primary human and rodent macrophages,10.1093/eurheartj/ehab920,35567557
+NFKB1,CCL2,activation,R009,Li 2022,NFKB1 -> CCL2,Hypoxia-exposed human endometrial stromal cells,10.1080/21655979.2021.2012950,34964708
+STAT6,CCL2,inhibition,R010,Chen 2024,STAT6 -| CCL2,PANC-1 human pancreatic cancer cells,10.1158/1535-7163.MCT-23-0767,38907533
+IRF5,CCL4,activation,R013,Barnes 2002,IRF5 -> CCL4,IRF5-expressing BJAB human B-lymphoma cells,10.1128/MCB.22.16.5721-5740.2002,12138184
+LTA,CCL4,activation,R015,de Graaff 2021,LTA -> CCL4,IL-4-polarized human monocyte-derived macrophages; melanoma-infiltrating immune cells,10.1007/s00262-020-02707-4,32860527
+MAPK14,CCL4,activation,R016,Glennon-Alty 2021,MAPK14 -> CCL4,Primary human peripheral-blood neutrophils,10.1111/cei.13525,32990354
+NFKB1,CCL4,activation,R014,Lin 2022,NFKB1 -> CCL4,SKOV3 human ovarian cancer cells; THP-1-derived macrophages; adipose-derived stromal cells,10.1186/s12929-022-00888-x,36550569
+SOCS1,CCL4,inhibition,R017,Dai 2008,SOCS1 -| CCL4,Primary human epidermal keratinocytes,10.1093/intimm/dxn048,18492658
+SOCS3,CCL4,inhibition,R018,Monk 2015,SOCS3 -| CCL4,Primary mouse splenic CD8+ T cells; 3T3-L1 adipocytes,10.3945/jn.114.205443,25833786
+IRF1,CCL5,activation,R021,Choi 2020,IRF1 -> CCL5,Ovarian high-grade serous carcinoma cells; tumor-infiltrating lymphocytes from primary tumors,10.1186/s13048-020-00667-y,32513298
+IRF5,CCL5,activation,R019,Gao 2022,IRF5 -> CCL5,Tumor-associated macrophages; tumor-infiltrating T cells in pancreatic cancer,10.1021/acs.nanolett.2c01994,36251255
+MYC,CCL5,inhibition,R022,Yan 2023,MYC -| CCL5,4T1 mouse breast cancer cells; tumor-infiltrating CD3+ and CD8+ T cells,10.1016/j.gene.2023.147704,37572797
+NFKB1,CCL5,activation,R020,Zhao 2002,NFKB1 -> CCL5,Primary human normal and endometriotic endometrial stromal cells,10.1093/molehr/8.9.849,12200463
+AKT2,CCND2,activation,R026,Hassan 2021,AKT2 -> CCND2,Paclitaxel-resistant and parental human ovarian cancer cell lines,10.1038/s41598-020-78596-5,33436648
+CDKN1A,CCND2,inhibition,R029,Milde-Langosch 2003,CDKN1A -| CCND2,Ovarian carcinoma cells from primary tumor specimens,10.1097/00004347-200304000-00009,12649672
+CDKN1B,CCND2,inhibition,R030,Wang 2012,CDKN1B -| CCND2,KGN human ovarian granulosa cell tumor cells,10.1371/journal.pone.0048299,23155381
+CDKN2A,CCND2,inhibition,R031,Tsuda 2000,CDKN2A -| CCND2,Endometrioid endometrial carcinoma cells from primary tumor specimens,10.1054/bjoc.1999.0980,10682682
+IGF1,CCND2,activation,R027,Tosca 2010,IGF1 -> CCND2,Primary bovine granulosa cells,10.1530/REP-09-0351,19906888
+IL6,CCND2,activation,R028,Li 2014,IL6 -> CCND2,HEC-1B human endometrial cancer cells,10.1007/s11010-013-1913-2,24287565
+MYC,CCND2,activation,R023,Naciff 2009,MYC -> CCND2,Ishikawa human endometrial cancer cells,10.1093/toxsci/kfn219,18936297
+NFKB1,CCND2,activation,R024,Anttonen 2014,NFKB1 -> CCND2,Human ovarian granulosa cell tumor cells,10.1371/journal.pone.0085545,24416423
+STAT6,CCND2,activation,R025,Ciummo 2023,STAT6 -> CCND2,Human prostate cancer cells; vascular endothelial cells,10.1186/s13046-023-02902-y,38087324
+CDKN1A,CCND3,inhibition,R035,Zhou 2016,CDKN1A -| CCND3 ; CDKN1B -| CCND3,HEC-1A and Ishikawa human endometrial cancer cells,10.1016/j.tjog.2016.09.003,28040131
+CDKN1B,CCND3,inhibition,R035,Zhou 2016,CDKN1A -| CCND3 ; CDKN1B -| CCND3,HEC-1A and Ishikawa human endometrial cancer cells,10.1016/j.tjog.2016.09.003,28040131
+CDKN2A,CCND3,inhibition,R031,Tsuda 2000,CDKN2A -| CCND3,Endometrioid endometrial carcinoma cells from primary tumor specimens,10.1054/bjoc.1999.0980,10682682
+IGF1,CCND3,activation,R033,Rubinfeld 2014,IGF1 -> CCND3,Primary human pituitary adenoma cells; MtT/E rat pituitary tumor cells,10.1016/j.mce.2014.04.007,24769281
+IRF1,CCND3,inhibition,R036,Peng 2020,IRF1 -| CCND3,Primary human arterial endothelial cells,10.1016/j.yjmcc.2020.02.006,32087218
+MAPK14,CCND3,inhibition,R037,Liu 2017,MAPK14 -| CCND3,Y79 human retinoblastoma cells,10.1186/s12906-017-2023-6,29237430
+MYC,CCND3,activation,R032,Zempolich 2008,MYC -> CCND3,Cervical carcinoma cells from paired tumor biopsies,10.1016/j.ygyno.2008.01.027,18299147
+NFKB1,CCND3,activation,R034,Maalim 2024,NFKB1 -> CCND3,IOMM-Lee and CH157-MN human meningioma cells,10.3390/cancers16040767,38398158
+CDKN2A,CDKN1A,activation,R038,Jin 2023,CDKN2A -> CDKN1A,Uterine corpus endometrial carcinoma cells from primary tumor specimens,10.1007/s13353-023-00779-3,37626211
+IFNG,CDKN1A,activation,R041,Bhardwaj 2025,IFNG -> CDKN1A,Mouse ovarian epithelial cells,10.1016/j.reprotox.2025.108909,40250572
+IRF1,CDKN1A,activation,R042,Rho 2020,IRF1 -> CDKN1A,HPV16 E6-expressing human cervical cancer cells; vascular endothelial cells,10.3390/ijms21207622,33076322
+IRF5,CDKN1A,activation,R043,Massimino 2012,IRF5 -> CDKN1A,Primary and immortalized human thyroid carcinoma cells,10.1186/1476-4598-11-21,22507190
+KLF4,CDKN1A,activation,R039,Wan 2021,KLF4 -> CDKN1A,HPV-positive human cervical cancer cells; primary tumor-derived cervical cancer spheroid cells,10.1016/j.canlet.2020.09.025,33010383
+MAPK14,CDKN1A,activation,R044,Kim 2018,MAPK14 -> CDKN1A,Ishikawa human endometrial cancer cells,10.1016/j.fct.2018.09.023,30236600
+MYC,CDKN1A,inhibition,R046,Zhao 2012,MYC -| CDKN1A,Human endometrial cancer cells,10.1371/journal.pone.0045133,23028803
+SPDEF,CDKN1A,activation,R040,Rida 2026,SPDEF -> CDKN1A,Androgen receptor-low triple-negative breast cancer cells from primary tumors,10.3390/ijms27041823,41751958
+STAT6,CDKN1A,activation,R045,Yan 2023,STAT6 -> CDKN1A,Human rheumatoid-arthritis fibroblast-like synoviocytes,10.18632/aging.205024,38112587
+TSC22D3,CDKN1A,inhibition,R047,Redjimi 2009,TSC22D3/GILZ -| p21/CDKN1A,BG-1 human epithelial ovarian cancer cells,10.1186/1476-4598-8-83,19814803
+AKT2,CDKN1B,inhibition,R052,Galvão 2026,AKT2 -| CDKN1B,"Pediatric ovarian, testicular, and mediastinal germ cell tumor cells from primary specimens",10.3389/fonc.2026.1689022,41777659
+CCND2,CDKN1B,inhibition,R030,Wang 2012,CCND2 -| CDKN1B,KGN human ovarian granulosa cell tumor cells,10.1371/journal.pone.0048299,23155381
+CCND3,CDKN1B,inhibition,R053,Zhu 2001,CCND3 -| CDKN1B,Human endometrial carcinoma cells,,11389092
+IFNG,CDKN1B,activation,R048,Tian 2026,IFNG -> CDKN1B,Tumor-associated T cells from human ovarian cancer,10.21037/tcr-2026-1-0211,42305453
+IRF1,CDKN1B,activation,R049,Lee 2005,IRF1 -> CDKN1B,HeLa and HT-3 human cervical cancer cells,10.1016/j.febslet.2005.01.005,15710386
+KLF4,CDKN1B,activation,R050,Yang 2012,KLF4 -> CDKN1B,"SiHa, C33A, and HeLa human cervical cancer cells",10.1002/cncr.26698,22170594
+MYC,CDKN1B,inhibition,R054,Hsin 2021,MYC -| CDKN1B,Human endometrial cancer cells in two- and three-dimensional cultures,10.3390/cells10112916,34831139
+STAT6,CDKN1B,activation,R051,Wei 2013,STAT6 -> CDKN1B,T-47D and MDA-MB-231 human breast cancer cells,10.1007/s13402-012-0115-3,23184467
+MYC,CDKN2A,inhibition,R056,Kodada 2025,MYC -| CDKN2A,Primary uterine endometrioid cancer cells; matched normal endometrial cells,10.1016/j.mcp.2025.102027,40090626
+STAT6,CDKN2A,activation,R055,Nakao 2025,STAT6 -> CDKN2A,Malignant spindle cell sarcoma cells from a patient tumor,10.1007/s13691-025-00806-6,41395549
+IFNG,CXCL10,activation,R057,Wang 2025,IFNG -> CXCL10,Uterine corpus endometrial carcinoma cells from primary tumors,10.1007/s12672-025-03684-9,41071252
+IRF1,CXCL10,activation,R059,Ardighieri 2021,IRF1 -> CXCL10,CXCL10+IRF1+STAT1+ tumor-associated macrophages; tumor-infiltrating CD3+ T cells,10.3389/fimmu.2021.690201,34220848
+IRF5,CXCL10,activation,R058,Guo 2019,IRF5 -> CXCL10,Peripheral-blood leukocytes from patients with non-small-cell lung cancer,10.1016/j.lungcan.2019.07.008,31447002
+KLF4,CXCL10,inhibition,R061,Chaudhary 2026,KLF4 -| CXCL10,Human peripheral-blood mononuclear cells; breast tumor-associated macrophages and cytotoxic lymphocytes,10.1155/tbj/1416629,42187123
+NFKB1,CXCL10,activation,R060,Cui 2025,NFKB1 -> CXCL10,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+CCND3,CXCL8,activation,R064,Jin 2023,CCND3 -> CXCL8,A549 human lung adenocarcinoma cells; MDA-MB-231 human breast cancer cells,10.1021/acsmedchemlett.2c00442,36655132
+IRF5,CXCL8,activation,R062,Kong 2026,IRF5 -> CXCL8,Chicken jejunal epithelial cells and mucosal immune cells,10.1186/s40104-026-01388-w,41998759
+MAPK14,CXCL8,activation,R065,Cakmak 2018,MAPK14 -> CXCL8,Primary human endometriotic stromal cells,10.1177/1933719117725828,28845752
+MYC,CXCL8,activation,R060,Cui 2025,MYC -> CXCL8 ; NFKB1 -> CXCL8,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+NFKB1,CXCL8,activation,R060,Cui 2025,MYC -> CXCL8 ; NFKB1 -> CXCL8,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+SPDEF,CXCL8,inhibition,R063,Korfhagen 2012,SPDEF -| CXCL8,Primary human airway epithelial cells,10.1073/pnas.1208092109,23012424
+IL6,EMT,activation,R066,So 2015,IL6 -> EMT,"Ishikawa endometrial, SKOV3 and IGROV-1 ovarian cancer cells; human mesenchymal stem cells",10.3892/ijo.2015.3122,26316317
+KLF4,EMT,inhibition,R068,Wang 2016,KLF4 -| EMT,Ishikawa human endometrial cancer cells,10.3109/09513590.2016.1163673,27098518
+TFF3,EMT,activation,R067,Pandey 2017,TFF3 -> EMT,Estrogen-receptor-positive human endometrial cancer cells,10.18632/oncotarget.20461,29100386
+CXCL10,IFNG,activation,R057,Wang 2025,CXCL10 -> IFNG,Uterine corpus endometrial carcinoma cells from primary tumors,10.1007/s12672-025-03684-9,41071252
+IRF1,IFNG,activation,R071,Yang 2024,IRF1 -> IFNG,Human endometrial cancer cells; activated peripheral-blood mononuclear cells and CD8+ T cells,10.1186/s13046-024-02979-z,38383447
+IRF5,IFNG,activation,R072,Zang 2026,IRF5 -> IFNG,Human and mouse tumor-infiltrating CD8+ T cells; melanoma cells,10.34133/cancomm.0021,41868885
+KLRB1,IFNG,activation,R069,Foucher 2015,KLRB1 -> IFNG,Human M-CSF- and IL-34-derived macrophages; ovarian tumor-associated macrophages; memory CD4+ T cells,10.1002/eji.201444606,25545357
+NFKB1,IFNG,activation,R073,Elayapillai 2025,NFKB1 -> IFNG,Human endometrial cancer cells in two- and three-dimensional cultures,10.1124/jpet.124.002223,39893009
+STAT6,IFNG,inhibition,R070,Si 2025,STAT6 -| IFNG,Human peripheral-blood-mononuclear-cell-derived macrophages; M2-like macrophages; CAR-T cells; ovarian cancer cells,10.1016/j.imbio.2024.152863,39693800
+IFNG,IGF1,inhibition,R074,Lessard 2003,IFNG -| IGF1,Porcine endometrial epithelial and stromal cells,10.2527/2003.81112818x,14601886
+IL6,IGF1,inhibition,R078,Lelbach 2001,IL6 -| IGF1,Primary rat hepatocytes; liver-resident Kupffer macrophages,10.1016/s0168-8278(01)00170-2,11690700
+MYC,IGF1,activation,R075,Zhang 2025,MYC -> IGF1,Human endometrial cancer cells,10.3389/fonc.2025.1531805,41262902
+SOCS1,IGF1,inhibition,R076,Evans 2007,SOCS1 -| IGF1 ; SOCS3 -| IGF1,AG11134 normal human mammary epithelial cells; MCF-7 and HCC1937 breast cancer cells,10.1038/sj.onc.1209993,17001312
+SOCS3,IGF1,inhibition,R076,Evans 2007,SOCS1 -| IGF1 ; SOCS3 -| IGF1,AG11134 normal human mammary epithelial cells; MCF-7 and HCC1937 breast cancer cells,10.1038/sj.onc.1209993,17001312
+STAT6,IGF1,activation,R077,Peng 2025,STAT6 -> IGF1,Solitary fibrous tumor cells from a patient specimen,10.3389/fonc.2025.1681861,41367853
+IRF5,IL6,activation,R079,Vakilzadeh 2024,IRF5 -> IL6,RAW264.7 mouse macrophages,10.1016/j.ijbiomac.2024.137094,39486736
+MAPK14,IL6,activation,R080,Jiang 2018,MAPK14 -> IL6,Primary human endometrial stromal cells,10.1515/hsz-2018-0254,29924731
+NFKB1,IL6,activation,R081,Bao 2026,NFKB1 -> IL6,Primary human endometrial cancer-associated fibroblasts; Ishikawa and HEC-1A endometrial cancer cells,10.1186/s12967-026-08488-1,42316290
+IFNG,IRF1,activation,R071,Yang 2024,IFNG -> IRF1,Human endometrial cancer cells; activated peripheral-blood mononuclear cells and CD8+ T cells,10.1186/s13046-024-02979-z,38383447
+IL6,IRF1,activation,R082,Li 2024,IL6 -> IRF1,MYD88-high and MYD88-low human epithelial ovarian cancer cell lines,10.1038/s41598-024-81975-x,39730678
+MYC,IRF1,inhibition,R083,Singh 2026,MYC -| IRF1,Human breast and ovarian cancer cells in patient-derived xenografts,10.1158/0008-5472.CAN-25-0521,41329749
+NFKB1,IRF1,activation,R042,Rho 2020,NFKB1 -> IRF1,HPV16 E6-expressing human cervical cancer cells; vascular endothelial cells,10.3390/ijms21207622,33076322
+STAT6,IRF1,inhibition,R084,Goenka 1999,STAT6 -| IRF1,HepG2 human hepatocellular carcinoma cells,,10528163
+AKT2,Invasion,activation,R005,Dumas 2013,Akt2 -> Invasion,CD40-activated human macrophages; human endometrial cancer cells,10.1007/s00262-012-1333-2,22903346
+CXCL8,Invasion,activation,R087,Tong 2016,CXCL8 -> Invasion,Tumor-associated macrophages; HEC-1A and Ishikawa human endometrial cancer cells,10.1016/j.canlet.2016.03.036,27018308
+EMT,Invasion,activation,R085,Colas 2012,EMT -> Invasion,Endometrial carcinoma epithelial cells,10.1007/s12094-012-0866-3,22911547
+IGF1,Invasion,activation,R088,Shang 2011,IGF-I -> Invasion,HEC-1B human endometrial cancer cells,10.1097/IGC.0b013e318216a169,21666489
+MMP2,Invasion,activation,R089,Che 2019,IL-6 -> Invasion ; IL-6 -> STAT3 -> Invasion ; IL-6 -> MMP2 -> Invasion,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+STAT3,Invasion,activation,R089,Che 2019,IL-6 -> Invasion ; IL-6 -> STAT3 -> Invasion ; IL-6 -> MMP2 -> Invasion,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+TFF3,Invasion,activation,R067,Pandey 2017,TFF3 -> Invasion,Estrogen-receptor-positive human endometrial cancer cells,10.18632/oncotarget.20461,29100386
+TNFRSF11B,Invasion,inhibition,R086,Wang 2016,TNFRSF11B -| Invasion,Human endometrial cancer cells,10.18632/oncotarget.6795,26734994
+IFNG,KLF4,inhibition,R092,Liao 2011,IFNG -| KLF4,Primary mouse and human macrophages,10.1172/JCI45444,21670502
+STAT6,KLF4,activation,R090,Li 2025,STAT6 -> KLF4,M2-like human macrophages; human breast cancer cells,10.3390/ijms26178627,40943546
+TNFRSF11B,KLF4,activation,R091,Alraouji 2024,TNFRSF11B -> KLF4,Human breast epithelial and breast cancer cells; breast stromal fibroblasts,10.1038/s41420-024-02151-8,39181873
+IFNG,LTA,activation,R093,Mine 2003,IFNG -> LTA,Primary human endometrial stromal cells,10.1016/s0015-0282(02)04552-1,12524079
+IRF1,LTA,activation,R094,Jasenosky 2020,IRF1 -> LTA,Primary human CD4+ T cells; CEM human T-lymphoblast cells,10.4049/jimmunol.1901311,32978279
+STAT6,LTA,activation,R095,Zhang 2014,STAT6 -> LTA,Cervical epithelial tumor cells from patients with cervical cancer,10.1016/j.ygyno.2014.07.106,25127987
+CCL2,MAPK14,activation,R065,Cakmak 2018,CCL2 -> MAPK14,Primary human endometriotic stromal cells,10.1177/1933719117725828,28845752
+IFNG,MAPK14,activation,R096,Zhu 2023,IFNG -> MAPK14,Human ovarian cancer cells,10.7717/peerj.14827,36751636
+IL6,MAPK14,activation,R080,Jiang 2018,IL6 -> MAPK14,Primary human endometrial stromal cells,10.1515/hsz-2018-0254,29924731
+SOCS1,MAPK14,inhibition,R098,Zhou 2023,SOCS1 -| MAPK14,SH-SY5Y human neuroblastoma cells,,36946346
+TNFRSF11B,MAPK14,activation,R097,Wang 2017,TNFRSF11B -> MAPK14,OCCM-30 mouse cementoblast cells,10.1111/cpr.12344,28244247
+IL6,MMP2,activation,R089,Che 2019,IL-6 -> STAT3 -> invasion/migration ; IL-6 -> MMP2 -> invasion/migration ; STAT3 -> MMP2,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+STAT3,MMP2,activation,R089,Che 2019,IL-6 -> STAT3 -> invasion/migration ; IL-6 -> MMP2 -> invasion/migration ; STAT3 -> MMP2,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+AKT2,MYC,activation,R001,Saglam 2020,AKT2 -> MYC,Endometrial serous carcinoma cells from primary tumor specimens,10.1371/journal.pone.0238477,32877461
+CDKN1B,MYC,inhibition,R060,Cui 2025,NFKB1 -> MYC ; CDKN1B -| MYC,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+CDKN2A,MYC,inhibition,R056,Kodada 2025,CDKN2A -| MYC,Primary uterine endometrioid cancer cells; matched normal endometrial cells,10.1016/j.mcp.2025.102027,40090626
+IL6,MYC,activation,R099,Subramaniam 2016,IL6 -> MYC,Primary human endometrial cancer-associated fibroblasts; endometrial cancer epithelial cells,,27186396
+IRF1,MYC,activation,R083,Singh 2026,IRF1 -> MYC,Human breast and ovarian cancer cells in patient-derived xenografts,10.1158/0008-5472.CAN-25-0521,41329749
+MAPK14,MYC,activation,R101,Xu 2016,MAPK14 -> MYC,Human ovarian cancer cell lines,10.1007/s13277-015-4245-x,26501422
+NFKB1,MYC,activation,R060,Cui 2025,NFKB1 -> MYC ; CDKN1B -| MYC,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+STAT3,MYC,activation,R102,Bowman 2001,STAT3 -> MYC,NIH 3T3 mouse fibroblasts,10.1073/pnas.131568898,11404481
+STAT6,MYC,activation,R100,Lu 2025,STAT6 -> MYC,ID8 mouse ovarian cancer cells; tumor-associated T cells,10.1002/iid3.70175,40105652
+Migration,Metastasis,activation,R103,Creasman 1987,Migration -> Metastasis,Endometrial carcinoma cells in primary uterine and extrauterine lesions,10.1002/1097-0142(19901015)60:8+<2035::aid-cncr2820601515>3.0.co;2-8,3652025
+AKT2,Migration,inhibition,R007,Girouard 2013,AKT2 -| Migration,KLE and HEC-1A human endometrial cancer cells,10.1016/j.ygyno.2012.11.016,23174537
+CCL4,Migration,activation,R104,Hua 2017,CCL4 -> STAT3 -> Migration/Invasion ; CCL4 -> Migration,Human endometrial carcinoma cell lines,,31966483
+CXCL8,Migration,activation,R105,Lin 2011,CXCL8 -> Migration,RL95-2 human endometrial cancer cells,10.7150/ijbs.7.74,21278918
+EMT,Migration,activation,R085,Colas 2012,EMT -> Migration,Endometrial carcinoma epithelial cells,10.1007/s12094-012-0866-3,22911547
+Invasion,Migration,activation,R134,Cohen 2015,Invasion -> Migration,Lung carcinoma cell,10.1371/journal.pcbi.1004571,26528548
+Invasion,Migration,activation,R104,Hua 2017,CCL4 -> STAT3 -> Migration/Invasion ; CCL4 -> Migration,Human endometrial carcinoma cell lines,,31966483
+MMP2,Migration,activation,R089,Che 2019,STAT3 -> Migration ; MMP2 -> Migration,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+MYC,Migration,activation,R106,Diao 2025,MYC -> Migration,"HEC-1A, HEC-1B, and KLE human endometrial cancer cells",10.3389/fonc.2025.1592193,40740861
+STAT3,Migration,activation,R104,Hua 2017,CCL4 -> STAT3 -> Migration/Invasion ; CCL4 -> Migration,Human endometrial carcinoma cell lines,,31966483
+STAT3,Migration,activation,R089,Che 2019,STAT3 -> Migration ; MMP2 -> Migration,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+TFF3,Migration,activation,R067,Pandey 2017,TFF3 -> Migration,Estrogen-receptor-positive human endometrial cancer cells,10.18632/oncotarget.20461,29100386
+TNFRSF11B,Migration,inhibition,R086,Wang 2016,TNFRSF11B -| Migration/Invision,Human endometrial cancer cells,10.18632/oncotarget.6795,26734994
+AKT2,NFKB1,activation,R108,Rouette 2012,AKT2 -> NFKB1,"KLE, HEC-1A, and Ishikawa human endometrial cancer cells",10.1002/ijc.26183,21618512
+CCL5,NFKB1,activation,R110,Oliveira 2022,CCL5 -> NFKB1,KLE human endometrial cancer cells; VK2/E6E7 human vaginal epithelial cells,10.3390/molecules27030782,35164046
+CDKN2A,NFKB1,inhibition,R107,Becker 2005,CDKN2A -| NFKB1,Human melanoma cells,10.1016/j.bbrc.2005.05.032,15913553
+CXCL8,NFKB1,activation,R060,Cui 2025,CXCL8 -> NFKB1,Tumor epithelial cells; tumor-associated Th2 lymphocytes across multiple cancer types,10.1186/s40659-025-00643-0,41057958
+LTA,NFKB1,activation,R109,Arabzadeh 2016,LTA -> NFKB1,SKOV3 human ovarian cancer cells,10.1186/s11658-016-0003-3,28536612
+CCND2,Proliferation,activation,R111,Yuan 2019,CCND2 -> Proliferation,Mouse endometrial epithelial cells; human endometrial cancer cells,10.1177/1933719118768687,29661100
+CCND3,Proliferation,activation,R053,Zhu 2001,CCND3 -> Proliferation,Human endometrial carcinoma cells,,11389092
+CDKN1A,Proliferation,inhibition,R006,Zheng 2025,CDKN1A -| Proliferation,Human endometrial cancer cells,10.1038/s41419-025-08287-4,41353219
+CDKN1B,Proliferation,inhibition,R115,Gonçalves 2018,CDKN1B -| Proliferation,Human glandular endometrial epithelial cells; endometriosis-derived endometrial cells,10.1016/j.ejogrb.2017.11.026,29216564
+CDKN2A,Proliferation,activation,R112,Liu 2026,CDKN2A -> Proliferation,Ishikawa human endometrial cancer cells,10.1007/s12672-026-04795-7,41831193
+KLF4,Proliferation,inhibition,R068,Wang 2016,KLF4 -| Proliferation,Ishikawa human endometrial cancer cells,10.3109/09513590.2016.1163673,27098518
+MAPK14,Proliferation,activation,R113,Joseph 2025,MAPK14 -> Proliferation,Ascites-derived and primary-tumor high-grade endometrial cancer cells in three-dimensional spheroids,10.1016/j.celrep.2024.115104,39708320
+MYC,Proliferation,activation,R114,Sun 2025,MYC -> Proliferation,Human endometrial carcinoma cells,10.1038/s41417-025-00918-4,40813895
+IFNG,SOCS1,activation,R116,Gao 2022,IFN-gamma -> SOCS1,SKOV3 and OVCAR3 human ovarian cancer cells,10.1007/s12094-021-02668-9,34275119
+NFKB1,SOCS1,activation,R117,Sun 2024,NFKB1 -> SOCS1,HeLa human cervical cancer cells,10.1016/j.ijbiomac.2024.135689,39288863
+STAT6,SOCS1,activation,R118,Jin 2021,STAT6 -> SOCS1,M2-like macrophages; human endometrial cancer cells in co-culture,10.1016/j.jhazmat.2021.125337,33609860
+IFNG,SOCS3,activation,R119,Gao 2023,IFNG -> SOCS3,HepG2 human hepatocellular carcinoma cells; H22 mouse hepatoma cells; mouse T cells,10.1016/j.biopha.2023.115317,37597322
+IL6,SOCS3,activation,R120,Yu 2026,IL6 -> SOCS3 ; MYC -| SOCS3,Gallbladder epithelial cells from gallstone and gallbladder-cancer specimens,10.1186/s12935-026-04193-7,41792728
+MAPK14,SOCS3,activation,R121,Liu 2023,MAPK14 -> SOCS3,PC-3 human prostate cancer cells,10.1177/15353702231191206,37646261
+MYC,SOCS3,inhibition,R120,Yu 2026,IL6 -> SOCS3 ; MYC -| SOCS3,Gallbladder epithelial cells from gallstone and gallbladder-cancer specimens,10.1186/s12935-026-04193-7,41792728
+SOCS1,SOCS3,inhibition,R123,Saydmohammed 2010,SOCS1 -| SOCS3,Human ovarian and endometrial cancer cell lines; normal ovarian and endometrial cells,10.1002/jcb.22558,20235152
+STAT6,SOCS3,activation,R122,Pastuszak-Lewandoska 2018,STAT6 -> SOCS3,"Primary human lung squamous-cell, adenocarcinoma, and large-cell carcinoma cells",10.1007/s40291-018-0355-7,30105735
+KLF4,SPDEF,activation,R124,Gupta 2011,KLF4 -> SPDEF,Mouse conjunctival forniceal epithelial and goblet cells,10.1167/iovs.10-7068,21398290
+STAT6,SPDEF,activation,R125,Lee 2022,STAT6 -> SPDEF,Primary human invasive lobular and ductal breast carcinoma cells,10.1186/s13058-022-01550-y,35906698
+CCL4,STAT3,activation,R104,Hua 2017,CCL4 -> STAT3-> migration/invasion,Human endometrial carcinoma cell lines,,31966483
+IL6,STAT3,activation,R089,Che 2019,IL-6 -> STAT3 -> MMP2 -> invasion/migration,Human endometrial cancer cell lines,10.1016/j.prp.2019.03.020,30922625
+IL6,TFF3,activation,R126,Zhang 2026,IL6 -> TFF3,Human cervical carcinoma cells,10.1038/s41417-025-00990-w,41286503
+SOCS3,TFF3,inhibition,R129,Inagaki-Ohara 2014,SOCS3 -| TFF3,Mouse gastric epithelial cells,10.1038/onc.2012.540,23178499
+SPDEF,TFF3,activation,R128,Abdullayeva 2024,SPDEF -> TFF3,Human colorectal cancer-derived cell lines with goblet-cell differentiation,10.1073/pnas.2414213121,39401352
+STAT6,TFF3,activation,R127,Blanchard 2004,STAT6 -> TFF3,HT-29 CL.16E and HT-29 human colorectal goblet-like epithelial cells,10.4049/jimmunol.172.6.3775,15004182
+IGF1,TNFRSF11B,inhibition,R130,Casano-Sancho 2025,IGF1 -| TNFRSF11B,Optic-pathway glioma cells from pediatric patient tumors,10.1093/ejendo/lvaf113,40465847
+IL6,TNFRSF11B,activation,R131,Yoshida 2020,IL6 -> TNFRSF11B,Osteoblasts; osteoclasts; bone-marrow stromal cells,10.1007/164_2019_327,31820173
+LTA,TNFRSF11B,activation,R132,Ishihata 2022,LTA -> TNFRSF11B,MC3T3-E1 mouse preosteoblasts,10.3390/ijms232012633,36293485
+STAT6,TNFRSF11B,activation,R133,Sundaram 2015,STAT6 -> TNFRSF11B,SAKA-T human stromal/preosteoblast cells; primary human bone-marrow stromal/preosteoblast cells,10.1016/j.bone.2014.10.016,25445452

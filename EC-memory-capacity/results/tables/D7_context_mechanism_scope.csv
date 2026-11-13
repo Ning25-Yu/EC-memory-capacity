@@ -1,0 +1,18 @@
+context,attractor,attractor_type,untreated_P_arrest_FP,untreated_P_prolif0_late,p27_P_arrest_FP,p27_P_prolif0_late,p27_SE,p27_method,p27_states,p16_P_arrest_FP,p16_P_prolif0_late,p16_SE,p16_method,p16_states,p21_P_arrest_FP,p21_P_prolif0_late,p21_SE,p21_method,p21_states,class_states,class_prolif_off_occupancy
+C0000,C0000_A2,fixed point,0.0,0.0,0.999408,0.999408,2.4e-05,"simulation (10 x 50,000)","> 400,000",0.999708,0.999708,1e-05,"simulation (10 x 50,000)","> 400,000",0.0,0.0,0.0,exact,4/8,,
+C0001,C0001_A1,complex recurrent class,0.0,0.5,0.9991061297,0.9995530649,0.0,exact,128/222,0.998628,0.99928,3.6e-05,"simulation (10 x 50,000)","> 400,000",0.8446777471,0.9223388735,0.0,exact,136/272,64.0,0.5
+C0001,C0001_A3,fixed point,0.0,0.0,0.992534,0.995957,0.000123,"simulation (10 x 50,000)","> 400,000",0.995614,0.997691,0.000116,"simulation (10 x 50,000)","> 400,000",0.0,0.0,0.0,exact,4/8,,
+C0010,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C0011,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C0100,C0100_A1,fixed point,0.0,0.0,0.9985014964,0.9985014964,0.0,exact,72/200,0.9945582044,0.9945582044,0.0,exact,260/1212,0.0,0.0,0.0,exact,8/16,,
+C0101,C0101_A1,fixed point,0.0,0.0,0.9982487821,0.9982487821,0.0,exact,40/104,0.9939624554,0.9939624554,0.0,exact,116/592,0.0,0.0,0.0,exact,8/16,,
+C0110,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C0111,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C1000,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C1001,C1001_A1,complex recurrent class,0.0,0.5,0.9991061297,0.9995530649,0.0,exact,128/222,0.9970350082,0.9985175041,0.0,exact,2344/66019,0.8446777471,0.9223388735,0.0,exact,136/272,64.0,0.5
+C1010,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C1011,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C1100,C1100_A1,fixed point,0.0,0.0,0.9985014964,0.9985014964,0.0,exact,72/200,0.9945582044,0.9945582044,0.0,exact,260/1212,0.0,0.0,0.0,exact,8/16,,
+C1101,C1101_A1,fixed point,0.0,0.0,0.9982487821,0.9982487821,0.0,exact,40/104,0.9939624554,0.9939624554,0.0,exact,116/592,0.0,0.0,0.0,exact,8/16,,
+C1110,,non-proliferative,,,,,,,,,,,,,,,,,,,
+C1111,,non-proliferative,,,,,,,,,,,,,,,,,,,

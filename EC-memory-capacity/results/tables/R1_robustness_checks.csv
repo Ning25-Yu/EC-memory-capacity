@@ -1,0 +1,129 @@
+check,setting,quantity,value
+D synchronous updating,"54 pulses x 6 proliferative fixed points, L = 8 steps",agreement with the asynchronous writer call,322 of 324
+D synchronous updating,"54 pulses x 6 proliferative fixed points, L = 8 steps",disagreements,C0100_A1 IL6=0 (synchronous relapse); C1100_A1 IL6=0 (synchronous relapse)
+C network structure,single-edge deletion (all 168 edges),p27 and p16 arrest both retained,163 of 168
+C network structure,"2 random edges deleted, 200 draws","proliferative state, p27 and p16 arrest all retained",188 of 200
+C network structure,"2 random edges deleted, 200 draws",retained among draws without a single-edge critical edge,188 of 188
+C network structure,"4 random edges deleted, 200 draws","proliferative state, p27 and p16 arrest all retained",174 of 200
+C network structure,"4 random edges deleted, 200 draws",retained among draws without a single-edge critical edge,173 of 173
+C network structure,"8 random edges deleted, 200 draws","proliferative state, p27 and p16 arrest all retained",168 of 200
+C network structure,"8 random edges deleted, 200 draws",retained among draws without a single-edge critical edge,162 of 163
+C network structure,single-edge critical edges (C0101),edges,CDKN1B>CCND2; CDKN1B>MYC; CDKN2A>MYC; IFNG>KLF4; MYC>Proliferation
+B transition rates,"C0001_A1, CCND2=0 (unit rates 0.798)",median (minimum to maximum) over 200 rate sets,0.760 (0.390 to 0.958)
+B transition rates,"C0001_A1, CCND2=0 (unit rates 0.798)",rate sets in which the writer call changes,5
+B transition rates,"C0001_A1, CDKN1A=1 (unit rates 0.845)",median (minimum to maximum) over 200 rate sets,0.801 (0.469 to 0.973)
+B transition rates,"C0001_A1, CDKN1A=1 (unit rates 0.845)",rate sets in which the writer call changes,2
+B transition rates,"C0001_A1, CDKN1B=1 (unit rates 0.999)",median (minimum to maximum) over 200 rate sets,0.989 (0.891 to 1.000)
+B transition rates,"C0001_A1, CDKN1B=1 (unit rates 0.999)",rate sets in which the writer call changes,0
+B transition rates,"C0100_A1, CDKN1B=1 (unit rates 0.999)",median (minimum to maximum) over 200 rate sets,0.978 (0.828 to 1.000)
+B transition rates,"C0100_A1, CDKN1B=1 (unit rates 0.999)",rate sets in which the writer call changes,0
+B transition rates,"C0100_A1, CDKN2A=1 (unit rates 0.995)",median (minimum to maximum) over 200 rate sets,0.958 (0.723 to 1.000)
+B transition rates,"C0100_A1, CDKN2A=1 (unit rates 0.995)",rate sets in which the writer call changes,0
+B transition rates,"C0100_A1, IL6=0 (unit rates 0.560)",median (minimum to maximum) over 200 rate sets,0.488 (0.168 to 0.904)
+B transition rates,"C0100_A1, IL6=0 (unit rates 0.560)",rate sets in which the writer call changes,107
+B transition rates,"C0100_A1, MYC=0 (unit rates 0.990)",median (minimum to maximum) over 200 rate sets,0.935 (0.535 to 1.000)
+B transition rates,"C0100_A1, MYC=0 (unit rates 0.990)",rate sets in which the writer call changes,0
+B transition rates,"C0101_A1, CDKN1B=1 (unit rates 0.998)",median (minimum to maximum) over 200 rate sets,0.975 (0.777 to 1.000)
+B transition rates,"C0101_A1, CDKN1B=1 (unit rates 0.998)",rate sets in which the writer call changes,0
+B transition rates,"C0101_A1, CDKN2A=1 (unit rates 0.994)",median (minimum to maximum) over 200 rate sets,0.954 (0.688 to 1.000)
+B transition rates,"C0101_A1, CDKN2A=1 (unit rates 0.994)",rate sets in which the writer call changes,0
+B transition rates,"C1001_A1, CCND2=0 (unit rates 0.798)",median (minimum to maximum) over 200 rate sets,0.760 (0.390 to 0.958)
+B transition rates,"C1001_A1, CCND2=0 (unit rates 0.798)",rate sets in which the writer call changes,5
+B transition rates,"C1001_A1, CDKN1A=1 (unit rates 0.845)",median (minimum to maximum) over 200 rate sets,0.801 (0.469 to 0.973)
+B transition rates,"C1001_A1, CDKN1A=1 (unit rates 0.845)",rate sets in which the writer call changes,2
+B transition rates,"C1001_A1, CDKN1B=1 (unit rates 0.999)",median (minimum to maximum) over 200 rate sets,0.989 (0.891 to 1.000)
+B transition rates,"C1001_A1, CDKN1B=1 (unit rates 0.999)",rate sets in which the writer call changes,0
+B transition rates,"C1100_A1, CDKN1B=1 (unit rates 0.999)",median (minimum to maximum) over 200 rate sets,0.978 (0.828 to 1.000)
+B transition rates,"C1100_A1, CDKN1B=1 (unit rates 0.999)",rate sets in which the writer call changes,0
+B transition rates,"C1100_A1, CDKN2A=1 (unit rates 0.995)",median (minimum to maximum) over 200 rate sets,0.958 (0.723 to 1.000)
+B transition rates,"C1100_A1, CDKN2A=1 (unit rates 0.995)",rate sets in which the writer call changes,0
+B transition rates,"C1100_A1, IL6=0 (unit rates 0.560)",median (minimum to maximum) over 200 rate sets,0.488 (0.168 to 0.904)
+B transition rates,"C1100_A1, IL6=0 (unit rates 0.560)",rate sets in which the writer call changes,107
+B transition rates,"C1100_A1, MYC=0 (unit rates 0.990)",median (minimum to maximum) over 200 rate sets,0.935 (0.535 to 1.000)
+B transition rates,"C1100_A1, MYC=0 (unit rates 0.990)",rate sets in which the writer call changes,0
+B transition rates,"C1101_A1, CDKN1B=1 (unit rates 0.998)",median (minimum to maximum) over 200 rate sets,0.975 (0.777 to 1.000)
+B transition rates,"C1101_A1, CDKN1B=1 (unit rates 0.998)",rate sets in which the writer call changes,0
+B transition rates,"C1101_A1, CDKN2A=1 (unit rates 0.994)",median (minimum to maximum) over 200 rate sets,0.954 (0.688 to 1.000)
+B transition rates,"C1101_A1, CDKN2A=1 (unit rates 0.994)",rate sets in which the writer call changes,0
+B transition rates,18 exact cells with 0 < P < 1,writer calls changed (cell x rate set),228 of 3600
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C1001,CCL5=0; CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; LTA=0; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.4",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.4","contexts whose guaranteed writers differ from L = 8, 0.5",C1001
+A threshold and pulse length,"L = 8, threshold = 0.4",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C1001,CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.5",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.5","contexts whose guaranteed writers differ from L = 8, 0.5",none
+A threshold and pulse length,"L = 8, threshold = 0.5",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C1001,CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 8, threshold = 0.6",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 8, threshold = 0.6","contexts whose guaranteed writers differ from L = 8, 0.5",C0100; C1100
+A threshold and pulse length,"L = 8, threshold = 0.6",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C1001,CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.4",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.4","contexts whose guaranteed writers differ from L = 8, 0.5",C0100; C1100
+A threshold and pulse length,"L = 4, threshold = 0.4",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C1001,CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.5",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.5","contexts whose guaranteed writers differ from L = 8, 0.5",C0100; C1100
+A threshold and pulse length,"L = 4, threshold = 0.5",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C1001,CDKN1A=1; CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; MYC=0
+A threshold and pulse length,"L = 4, threshold = 0.6",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 4, threshold = 0.6","contexts whose guaranteed writers differ from L = 8, 0.5",C0100; C1001; C1100
+A threshold and pulse length,"L = 4, threshold = 0.6",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C1001,CCL5=0; CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; LTA=0; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.4",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.4","contexts whose guaranteed writers differ from L = 8, 0.5",C1001
+A threshold and pulse length,"L = 16, threshold = 0.4",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C1001,CCL5=0; CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; LTA=0; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.5",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.5","contexts whose guaranteed writers differ from L = 8, 0.5",C1001
+A threshold and pulse length,"L = 16, threshold = 0.5",p27 ON and p16 ON guaranteed in every context,True
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C0000,AKT2=0; CDKN1B=1; CDKN2A=1; CXCL10=1; IFNG=1; IL6=0; IRF1=1; MAPK14=0; MYC=0; NFKB1=0; SOCS1=1
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C0001,CDKN1B=1; CDKN2A=1; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C0100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C0101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C1001,CCL5=0; CCND2=0; CDKN1A=1; CDKN1B=1; CDKN2A=1; LTA=0; NFKB1=0
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C1100,CDKN1B=1; CDKN2A=1; IL6=0; MYC=0
+A threshold and pulse length,"L = 16, threshold = 0.6",guaranteed writers of C1101,CDKN1B=1; CDKN2A=1
+A threshold and pulse length,"L = 16, threshold = 0.6","contexts whose guaranteed writers differ from L = 8, 0.5",C1001
+A threshold and pulse length,"L = 16, threshold = 0.6",p27 ON and p16 ON guaranteed in every context,True

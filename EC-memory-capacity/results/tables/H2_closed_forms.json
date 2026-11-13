@@ -1,0 +1,74 @@
+{
+ "free_nodes": [
+  "AKT2",
+  "CCND2",
+  "CCND3",
+  "CDKN1B",
+  "IRF1",
+  "MYC",
+  "Proliferation"
+ ],
+ "n_distinct_committor_values": 18,
+ "CDKN1B ON": {
+  "a_of_L": "-4*L*exp(-L)/9 + 31*L*exp(-2*L)/54 - 5*L*exp(-3*L)/24 + 1 - 5*exp(-L)/3 + 181*exp(-2*L)/162 - 79*exp(-3*L)/288",
+  "latex": "- \\frac{4 L e^{- L}}{9} + \\frac{31 L e^{- 2 L}}{54} - \\frac{5 L e^{- 3 L}}{24} + 1 - \\frac{5 e^{- L}}{3} + \\frac{181 e^{- 2 L}}{162} - \\frac{79 e^{- 3 L}}{288}",
+  "reachable_states_under_clamp": 40,
+  "a_at_onset": "457/2592",
+  "a_at_L8": 0.9982487820985225
+ },
+ "MYC OFF + CCND2 OFF": {
+  "a_of_L": "-4*L*exp(-L)/3 + 1 - 4*exp(-L)/9 - exp(-2*L)/2",
+  "latex": "- \\frac{4 L e^{- L}}{3} + 1 - \\frac{4 e^{- L}}{9} - \\frac{e^{- 2 L}}{2}",
+  "reachable_states_under_clamp": 20,
+  "a_at_onset": "1/18",
+  "a_at_L8": 0.9962725812001625
+ },
+ "MYC OFF": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 16,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "CCND2 OFF": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 1,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "CCND3 OFF": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 1,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "CCND2 OFF + CCND3 OFF": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 2,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "AKT2 OFF": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 1,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "IRF1 ON": {
+  "a_of_L": "0",
+  "latex": "0",
+  "reachable_states_under_clamp": 2,
+  "a_at_onset": "0",
+  "a_at_L8": 0.0
+ },
+ "long_pulse_limits": {
+  "MYC OFF then CCND2 OFF": "1/2",
+  "CCND2 OFF then MYC OFF": "1/6",
+  "MYC OFF + CCND2 OFF (concurrent)": "1",
+  "CDKN1B ON": "1"
+ }
+}

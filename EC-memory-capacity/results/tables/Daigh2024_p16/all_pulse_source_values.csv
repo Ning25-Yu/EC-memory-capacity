@@ -1,0 +1,60 @@
+panel,readout,nominal_readout_hours,condition,pulse_duration_days,role,replicate_id_in_source,positive_cells_percent,original_file,original_csv_row,original_csv_column
+1G,phospho_Rb,24,Cycling,0,cycling_control,Rep 1,68.0,Figure_1G_source_rows.csv,4,2
+1G,phospho_Rb,24,1 day,1,pulse_duration,Rep 1,58.0,Figure_1G_source_rows.csv,4,3
+1G,phospho_Rb,24,3 day,3,pulse_duration,Rep 1,49.0,Figure_1G_source_rows.csv,4,4
+1G,phospho_Rb,24,5 day,5,pulse_duration,Rep 1,14.0,Figure_1G_source_rows.csv,4,5
+1G,phospho_Rb,24,Arrested,5,unreleased_control,Rep 1,9.0,Figure_1G_source_rows.csv,4,6
+1G,phospho_Rb,24,Cycling,0,cycling_control,Rep 2,62.0,Figure_1G_source_rows.csv,5,2
+1G,phospho_Rb,24,1 day,1,pulse_duration,Rep 2,56.0,Figure_1G_source_rows.csv,5,3
+1G,phospho_Rb,24,3 day,3,pulse_duration,Rep 2,27.0,Figure_1G_source_rows.csv,5,4
+1G,phospho_Rb,24,5 day,5,pulse_duration,Rep 2,6.0,Figure_1G_source_rows.csv,5,5
+1G,phospho_Rb,24,Arrested,5,unreleased_control,Rep 2,2.0,Figure_1G_source_rows.csv,5,6
+1G,phospho_Rb,24,Cycling,0,cycling_control,Rep 3,59.0,Figure_1G_source_rows.csv,6,2
+1G,phospho_Rb,24,1 day,1,pulse_duration,Rep 3,58.0,Figure_1G_source_rows.csv,6,3
+1G,phospho_Rb,24,3 day,3,pulse_duration,Rep 3,24.0,Figure_1G_source_rows.csv,6,4
+1G,phospho_Rb,24,5 day,5,pulse_duration,Rep 3,8.0,Figure_1G_source_rows.csv,6,5
+1G,phospho_Rb,24,Arrested,5,unreleased_control,Rep 3,2.0,Figure_1G_source_rows.csv,6,6
+1H,EdU,24,Cycling,0,cycling_control,Rep 1,22.75,Figure_1H_source_rows.csv,4,2
+1H,EdU,24,1 day,1,pulse_duration,Rep 1,14.44,Figure_1H_source_rows.csv,4,3
+1H,EdU,24,3 day,3,pulse_duration,Rep 1,6.22,Figure_1H_source_rows.csv,4,4
+1H,EdU,24,5 day,5,pulse_duration,Rep 1,1.11,Figure_1H_source_rows.csv,4,5
+1H,EdU,24,Arrested,5,unreleased_control,Rep 1,0.51,Figure_1H_source_rows.csv,4,6
+1H,EdU,24,Cycling,0,cycling_control,Rep 2,23.2,Figure_1H_source_rows.csv,5,2
+1H,EdU,24,1 day,1,pulse_duration,Rep 2,11.96,Figure_1H_source_rows.csv,5,3
+1H,EdU,24,3 day,3,pulse_duration,Rep 2,5.15,Figure_1H_source_rows.csv,5,4
+1H,EdU,24,5 day,5,pulse_duration,Rep 2,1.88,Figure_1H_source_rows.csv,5,5
+1H,EdU,24,Arrested,5,unreleased_control,Rep 2,0.29,Figure_1H_source_rows.csv,5,6
+1H,EdU,24,Cycling,0,cycling_control,Rep 3,21.39,Figure_1H_source_rows.csv,6,2
+1H,EdU,24,1 day,1,pulse_duration,Rep 3,11.9,Figure_1H_source_rows.csv,6,3
+1H,EdU,24,3 day,3,pulse_duration,Rep 3,5.7,Figure_1H_source_rows.csv,6,4
+1H,EdU,24,5 day,5,pulse_duration,Rep 3,0.64,Figure_1H_source_rows.csv,6,5
+1H,EdU,24,Arrested,5,unreleased_control,Rep 3,0.34,Figure_1H_source_rows.csv,6,6
+1H,EdU,24,Cycling,0,cycling_control,Rep 4,22.89,Figure_1H_source_rows.csv,7,2
+1H,EdU,24,1 day,1,pulse_duration,Rep 4,11.61,Figure_1H_source_rows.csv,7,3
+1H,EdU,24,3 day,3,pulse_duration,Rep 4,5.6,Figure_1H_source_rows.csv,7,4
+1H,EdU,24,5 day,5,pulse_duration,Rep 4,3.93,Figure_1H_source_rows.csv,7,5
+1H,EdU,24,Arrested,5,unreleased_control,Rep 4,1.45,Figure_1H_source_rows.csv,7,6
+1I,phospho_Rb,72,Cycling,0,cycling_control,Rep 1,67.80666666666667,Figure_1I_source_rows.csv,4,2
+1I,phospho_Rb,72,1 day,1,pulse_duration,Rep 1,70.25333333333334,Figure_1I_source_rows.csv,4,3
+1I,phospho_Rb,72,3 day,3,pulse_duration,Rep 1,36.78,Figure_1I_source_rows.csv,4,4
+1I,phospho_Rb,72,5 day,5,pulse_duration,Rep 1,20.75,Figure_1I_source_rows.csv,4,5
+1I,phospho_Rb,72,Cycling,0,cycling_control,Rep 2,69.56666666666666,Figure_1I_source_rows.csv,5,2
+1I,phospho_Rb,72,1 day,1,pulse_duration,Rep 2,69.63,Figure_1I_source_rows.csv,5,3
+1I,phospho_Rb,72,3 day,3,pulse_duration,Rep 2,45.48333333333333,Figure_1I_source_rows.csv,5,4
+1I,phospho_Rb,72,5 day,5,pulse_duration,Rep 2,23.005,Figure_1I_source_rows.csv,5,5
+1I,phospho_Rb,72,Cycling,0,cycling_control,Rep 3,69.03666666666668,Figure_1I_source_rows.csv,6,2
+1I,phospho_Rb,72,1 day,1,pulse_duration,Rep 3,67.35000000000001,Figure_1I_source_rows.csv,6,3
+1I,phospho_Rb,72,3 day,3,pulse_duration,Rep 3,36.00333333333334,Figure_1I_source_rows.csv,6,4
+1I,phospho_Rb,72,5 day,5,pulse_duration,Rep 3,22.336666666666662,Figure_1I_source_rows.csv,6,5
+1J,EdU,72,Cycling,0,cycling_control,Rep 1,19.86,Figure_1J_source_rows.csv,4,2
+1J,EdU,72,1 day,1,pulse_duration,Rep 1,18.07,Figure_1J_source_rows.csv,4,3
+1J,EdU,72,3 day,3,pulse_duration,Rep 1,8.793333333333333,Figure_1J_source_rows.csv,4,4
+1J,EdU,72,5 day,5,pulse_duration,Rep 1,3.9066666666666667,Figure_1J_source_rows.csv,4,5
+1J,EdU,72,Cycling,0,cycling_control,Rep 2,21.400000000000002,Figure_1J_source_rows.csv,5,2
+1J,EdU,72,1 day,1,pulse_duration,Rep 2,17.290000000000003,Figure_1J_source_rows.csv,5,3
+1J,EdU,72,3 day,3,pulse_duration,Rep 2,12.966666666666667,Figure_1J_source_rows.csv,5,4
+1J,EdU,72,5 day,5,pulse_duration,Rep 2,6.645,Figure_1J_source_rows.csv,5,5
+1J,EdU,72,Cycling,0,cycling_control,Rep 3,22.37,Figure_1J_source_rows.csv,6,2
+1J,EdU,72,1 day,1,pulse_duration,Rep 3,20.16,Figure_1J_source_rows.csv,6,3
+1J,EdU,72,3 day,3,pulse_duration,Rep 3,10.703333333333333,Figure_1J_source_rows.csv,6,4
+1J,EdU,72,5 day,5,pulse_duration,Rep 3,2.4266666666666663,Figure_1J_source_rows.csv,6,5

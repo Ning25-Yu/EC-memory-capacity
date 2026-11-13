@@ -1,0 +1,19 @@
+panel,readout,nominal_readout_hours,condition,pulse_duration_days,role,n,mean,SD,minimum,maximum,pointwise_t95_lower,pointwise_t95_upper,units
+1G,phospho_Rb,24,Cycling,0,cycling_control,3,63.0,4.58257569495584,59.0,68.0,51.616250899209724,74.38374910079028,Percentage points on the original positive-cell scale
+1G,phospho_Rb,24,1 day,1,pulse_duration,3,57.333333333333336,1.1547005383792517,56.0,58.0,54.464898180167026,60.201768486499645,Percentage points on the original positive-cell scale
+1G,phospho_Rb,24,3 day,3,pulse_duration,3,33.333333333333336,13.650396819628847,24.0,49.0,-0.5761321866634503,67.24279885333013,Percentage points on the original positive-cell scale
+1G,phospho_Rb,24,5 day,5,pulse_duration,3,9.333333333333334,4.163331998932265,6.0,14.0,-1.008956691751191,19.67562335841786,Percentage points on the original positive-cell scale
+1G,phospho_Rb,24,Arrested,5,unreleased_control,3,4.333333333333333,4.041451884327381,2.0,9.0,-5.706189702748746,14.372856369415413,Percentage points on the original positive-cell scale
+1H,EdU,24,Cycling,0,cycling_control,4,22.5575,0.8007236310571412,21.39,23.2,21.283370019394425,23.831629980605577,Percentage points on the original positive-cell scale
+1H,EdU,24,1 day,1,pulse_duration,4,12.4775,1.3172287829631821,11.61,14.44,10.381495063222733,14.573504936777265,Percentage points on the original positive-cell scale
+1H,EdU,24,3 day,3,pulse_duration,4,5.6675,0.43919433815415526,5.15,6.22,4.968643800619893,6.366356199380108,Percentage points on the original positive-cell scale
+1H,EdU,24,5 day,5,pulse_duration,4,1.8900000000000001,1.452882192975971,0.64,3.93,-0.42185978352443465,4.201859783524435,Percentage points on the original positive-cell scale
+1H,EdU,24,Arrested,5,unreleased_control,4,0.6475,0.5432234040122597,0.29,1.45,-0.21688965752122735,1.5118896575212273,Percentage points on the original positive-cell scale
+1I,phospho_Rb,72,Cycling,0,cycling_control,3,68.80333333333334,0.9029027263959986,67.80666666666667,69.56666666666666,66.56039862065086,71.04626804601583,Percentage points on the original positive-cell scale
+1I,phospho_Rb,72,1 day,1,pulse_duration,3,69.07777777777778,1.5284136050651158,67.35000000000001,70.25333333333334,65.28098790228326,72.87456765327231,Percentage points on the original positive-cell scale
+1I,phospho_Rb,72,3 day,3,pulse_duration,3,39.42222222222222,5.263421292629315,36.00333333333334,45.48333333333333,26.347158896372065,52.49728554807237,Percentage points on the original positive-cell scale
+1I,phospho_Rb,72,5 day,5,pulse_duration,3,22.03055555555555,1.1582461997603346,20.75,23.005,19.153312491239397,24.907798619871706,Percentage points on the original positive-cell scale
+1J,EdU,72,Cycling,0,cycling_control,3,21.210000000000004,1.2657408897558782,19.86,22.37,18.065725322453012,24.354274677546996,Percentage points on the original positive-cell scale
+1J,EdU,72,1 day,1,pulse_duration,3,18.506666666666664,1.483992362963277,17.290000000000003,20.16,14.820225273880103,22.193108059453223,Percentage points on the original positive-cell scale
+1J,EdU,72,3 day,3,pulse_duration,3,10.82111111111111,2.0891580795816966,8.793333333333333,12.966666666666667,5.631354739814319,16.0108674824079,Percentage points on the original positive-cell scale
+1J,EdU,72,5 day,5,pulse_duration,3,4.326111111111111,2.140218273742017,2.4266666666666663,6.645,-0.9904858140686255,9.642708036290847,Percentage points on the original positive-cell scale
